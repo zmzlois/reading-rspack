@@ -1,4 +1,0 @@
-{
-    "buildCommand": "rspress build",
-    "outputDirectory": ".vercel/doc_build"
-}
